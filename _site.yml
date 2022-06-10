@@ -1,0 +1,12 @@
+---
+name: "Harrison"
+navbar:
+  title: "Harrison's Website"  
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Baby Name Data"
+      href: babynames.html
+---
